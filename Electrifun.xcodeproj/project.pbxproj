@@ -12,6 +12,20 @@
 		7C6D52BE2C5B717500CF3D6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C6D52BD2C5B717500CF3D6B /* Assets.xcassets */; };
 		7C6D52C12C5B717500CF3D6B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C6D52C02C5B717500CF3D6B /* Preview Assets.xcassets */; };
 		7C6D52CC2C5BCC9500CF3D6B /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6D52CB2C5BCC9500CF3D6B /* ImageView.swift */; };
+		7C769DA62C5F995C0037F096 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DA52C5F995C0037F096 /* ARViewContainer.swift */; };
+		7C769DA92C5F9ADB0037F096 /* CoachingOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DA82C5F9ADB0037F096 /* CoachingOverlay.swift */; };
+		7C769DAC2C5F9CEB0037F096 /* CustomBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DAB2C5F9CEB0037F096 /* CustomBox.swift */; };
+		7C769DAF2C5F9E1E0037F096 /* ARServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DAE2C5F9E1E0037F096 /* ARServices.swift */; };
+		7C769DB12C5F9E570037F096 /* LessonServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DB02C5F9E570037F096 /* LessonServices.swift */; };
+		7C769DB32C5F9E750037F096 /* ARManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DB22C5F9E750037F096 /* ARManager.swift */; };
+		7C769DB52C5F9E830037F096 /* LessonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DB42C5F9E830037F096 /* LessonManager.swift */; };
+		7C769DB82C5F9F220037F096 /* Lamp.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 7C769DB72C5F9F220037F096 /* Lamp.usdz */; };
+		7C769DBA2C5F9FE90037F096 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DB92C5F9FE90037F096 /* Lesson.swift */; };
+		7C769DBC2C5F9FF20037F096 /* LessonStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DBB2C5F9FF20037F096 /* LessonStep.swift */; };
+		7C769DC02C5FA0A00037F096 /* LessonListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DBF2C5FA0A00037F096 /* LessonListView.swift */; };
+		7C769DC22C5FA0BD0037F096 /* LessonSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DC12C5FA0BD0037F096 /* LessonSessionView.swift */; };
+		7C769DC42C5FA0DF0037F096 /* LessonSessionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DC32C5FA0DF0037F096 /* LessonSessionViewModel.swift */; };
+		7C769DC62C5FA0F00037F096 /* LessonListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C769DC52C5FA0F00037F096 /* LessonListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +35,20 @@
 		7C6D52BD2C5B717500CF3D6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C6D52C02C5B717500CF3D6B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7C6D52CB2C5BCC9500CF3D6B /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		7C769DA52C5F995C0037F096 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		7C769DA82C5F9ADB0037F096 /* CoachingOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoachingOverlay.swift; sourceTree = "<group>"; };
+		7C769DAB2C5F9CEB0037F096 /* CustomBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBox.swift; sourceTree = "<group>"; };
+		7C769DAE2C5F9E1E0037F096 /* ARServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARServices.swift; sourceTree = "<group>"; };
+		7C769DB02C5F9E570037F096 /* LessonServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonServices.swift; sourceTree = "<group>"; };
+		7C769DB22C5F9E750037F096 /* ARManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARManager.swift; sourceTree = "<group>"; };
+		7C769DB42C5F9E830037F096 /* LessonManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonManager.swift; sourceTree = "<group>"; };
+		7C769DB72C5F9F220037F096 /* Lamp.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Lamp.usdz; sourceTree = "<group>"; };
+		7C769DB92C5F9FE90037F096 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
+		7C769DBB2C5F9FF20037F096 /* LessonStep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonStep.swift; sourceTree = "<group>"; };
+		7C769DBF2C5FA0A00037F096 /* LessonListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonListView.swift; sourceTree = "<group>"; };
+		7C769DC12C5FA0BD0037F096 /* LessonSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonSessionView.swift; sourceTree = "<group>"; };
+		7C769DC32C5FA0DF0037F096 /* LessonSessionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonSessionViewModel.swift; sourceTree = "<group>"; };
+		7C769DC52C5FA0F00037F096 /* LessonListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +81,11 @@
 		7C6D52B82C5B717400CF3D6B /* Electrifun */ = {
 			isa = PBXGroup;
 			children = (
+				7C769DB62C5F9ED60037F096 /* 3DModels */,
+				7C769DAD2C5F9E030037F096 /* Services */,
+				7C769DAA2C5F9CD50037F096 /* Utils */,
+				7C769DA72C5F9AA10037F096 /* Extensions */,
+				7C769DA42C5F99080037F096 /* Models */,
 				7C6D52C82C5BCC6B00CF3D6B /* Managers */,
 				7C6D52C72C5BCC6300CF3D6B /* Views */,
 				7C6D52B92C5B717400CF3D6B /* ElectrifunApp.swift */,
@@ -74,6 +107,9 @@
 		7C6D52C72C5BCC6300CF3D6B /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				7C769DC72C5FA1980037F096 /* AR */,
+				7C769DBE2C5FA07A0037F096 /* LessonSession */,
+				7C769DBD2C5FA0630037F096 /* LessonList */,
 				7C6D52CB2C5BCC9500CF3D6B /* ImageView.swift */,
 			);
 			path = Views;
@@ -82,8 +118,78 @@
 		7C6D52C82C5BCC6B00CF3D6B /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				7C769DB22C5F9E750037F096 /* ARManager.swift */,
+				7C769DB42C5F9E830037F096 /* LessonManager.swift */,
 			);
 			path = Managers;
+			sourceTree = "<group>";
+		};
+		7C769DA42C5F99080037F096 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DB92C5F9FE90037F096 /* Lesson.swift */,
+				7C769DBB2C5F9FF20037F096 /* LessonStep.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		7C769DA72C5F9AA10037F096 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DA82C5F9ADB0037F096 /* CoachingOverlay.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		7C769DAA2C5F9CD50037F096 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DAB2C5F9CEB0037F096 /* CustomBox.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		7C769DAD2C5F9E030037F096 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DAE2C5F9E1E0037F096 /* ARServices.swift */,
+				7C769DB02C5F9E570037F096 /* LessonServices.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		7C769DB62C5F9ED60037F096 /* 3DModels */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DB72C5F9F220037F096 /* Lamp.usdz */,
+			);
+			path = 3DModels;
+			sourceTree = "<group>";
+		};
+		7C769DBD2C5FA0630037F096 /* LessonList */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DBF2C5FA0A00037F096 /* LessonListView.swift */,
+				7C769DC52C5FA0F00037F096 /* LessonListViewModel.swift */,
+			);
+			path = LessonList;
+			sourceTree = "<group>";
+		};
+		7C769DBE2C5FA07A0037F096 /* LessonSession */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DC12C5FA0BD0037F096 /* LessonSessionView.swift */,
+				7C769DC32C5FA0DF0037F096 /* LessonSessionViewModel.swift */,
+			);
+			path = LessonSession;
+			sourceTree = "<group>";
+		};
+		7C769DC72C5FA1980037F096 /* AR */ = {
+			isa = PBXGroup;
+			children = (
+				7C769DA52C5F995C0037F096 /* ARViewContainer.swift */,
+			);
+			path = AR;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -144,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C769DB82C5F9F220037F096 /* Lamp.usdz in Resources */,
 				7C6D52C12C5B717500CF3D6B /* Preview Assets.xcassets in Resources */,
 				7C6D52BE2C5B717500CF3D6B /* Assets.xcassets in Resources */,
 			);
@@ -156,9 +263,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C769DC62C5FA0F00037F096 /* LessonListViewModel.swift in Sources */,
+				7C769DA92C5F9ADB0037F096 /* CoachingOverlay.swift in Sources */,
 				7C6D52CC2C5BCC9500CF3D6B /* ImageView.swift in Sources */,
+				7C769DA62C5F995C0037F096 /* ARViewContainer.swift in Sources */,
+				7C769DAF2C5F9E1E0037F096 /* ARServices.swift in Sources */,
 				7C6D52BC2C5B717400CF3D6B /* ContentView.swift in Sources */,
+				7C769DB52C5F9E830037F096 /* LessonManager.swift in Sources */,
+				7C769DAC2C5F9CEB0037F096 /* CustomBox.swift in Sources */,
+				7C769DC22C5FA0BD0037F096 /* LessonSessionView.swift in Sources */,
+				7C769DC02C5FA0A00037F096 /* LessonListView.swift in Sources */,
+				7C769DBC2C5F9FF20037F096 /* LessonStep.swift in Sources */,
+				7C769DC42C5FA0DF0037F096 /* LessonSessionViewModel.swift in Sources */,
 				7C6D52BA2C5B717400CF3D6B /* ElectrifunApp.swift in Sources */,
+				7C769DB32C5F9E750037F096 /* ARManager.swift in Sources */,
+				7C769DB12C5F9E570037F096 /* LessonServices.swift in Sources */,
+				7C769DBA2C5F9FE90037F096 /* Lesson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
